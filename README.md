@@ -1,4 +1,4 @@
-# [iNaturalist](https://www.inaturalist.org/) To [Plant.id](https://web.plant.id/) predicition
+# [iNaturalist](https://www.inaturalist.org/) To [Plant.id](https://web.plant.id/) prediction
 
 ## 1) Run `extract_inaturalist_img.py`  to get the img source
 To get prediction from Plant.id first we need the image link. 
